@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="./tea-room-banner.png" width="100%" alt="Argente — 벚꽃과 따뜻한 차가 있는 작은 코딩 공간" />
 
 <br />
 
-### 🌸 어서 오세요, Argente의 작은 티룸입니다
+### 🌸 대학생의 온몸 비틀기
 
-따뜻한 차 한 잔과 함께, 배운 것을 차곡차곡 기록해요.
 
 <br />
 
@@ -15,11 +13,6 @@
 
 <br /><br />
 
-🌷 **작은 기록들이 모이는 곳**
-
-알고리즘 문제 풀이와 풀이 과정의 기록을 담고 있어요.
-
-[🍵 백준 풀이 노트 보러 가기](https://github.com/Argente0810/BAEKJOON__ONLINE_JUDGE)
 
 <br />
 
